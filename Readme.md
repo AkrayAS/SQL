@@ -6,4 +6,6 @@
 
 [SQL Basics](basics) - SQL, Queries, mysql configuration
 
-[Starting a Project](beginner) -
+[Starting a Project](beginner) - Create Database, Access Control, Types.
+
+[Tables](tables) - Tables
