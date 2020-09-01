@@ -38,3 +38,28 @@
 ### Project Requirements
 
 A system for sales of products. (Exemple to made during the learning of SQL)
+
+## Standardization of table names
+
+* A relation between the system and with what she will refer to.
+
+## Standardization of field names
+
+The letter identifying the type of the field is the initial letter of the type name:
+
+* C_: for a character type field;
+* D_: for date type field;
+* N_: for numeric type field;
+* B_: for blob type field.
+
+## Text Types
+
+CHAR, VARCHAR, TEXT, BLOB
+
+## Number Types
+
+TINYINT, SMALLINT, MEDIUMINT, INT, BIGINIT, FLOAT, DOUBLE.
+
+## DATE/TIME TYPES
+
+DATE(), DATETIME(), TIME().
