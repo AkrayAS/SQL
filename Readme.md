@@ -9,3 +9,5 @@
 [Starting a Project](beginner) - Create Database, Access Control, Types.
 
 [Tables](tables) - Tables
+
+[Queries](queries) - Queries
