@@ -23,3 +23,5 @@
 [Backups](backups) - Backup.
 
 [Advanced MySQL](advanced) - Advanced MySQL
+
+[Exercises](exercises) - MySQL Exercises
